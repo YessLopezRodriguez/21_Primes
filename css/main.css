@@ -1,0 +1,213 @@
+* {
+	font-family: Open Sans;
+}
+/* fondodelacomputadora*/
+.fo {
+	background-image: url("../img/hero1a.jpg");
+	background-size: 100% 100%; 
+	background-repeat: no-repeat;
+	margin: 0px auto;
+	height: 700px;
+	background-color: transparent;
+	margin-bottom: 150px;
+}
+
+.di {
+	display: inline-block;
+	color: white;
+	font-size: 24px;
+	margin-top: 30px;
+}
+
+.ima {
+	margin-left: 80px;
+	margin-top: 30px;
+}
+
+/*menu*/
+.menu1 {
+	display: inline-block;
+	margin-left: 25px;
+	margin-top: 30px;
+	}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+.home {
+	margin-left: 100px;
+	color: #4aa7dc;
+}
+
+/*Introducción*/
+.letrab {
+	text-align: center;
+	font-size: 50px;
+	color: white;
+	margin-top: 170px;
+}
+.letrac {
+	text-align: center;
+	color:white;
+	font-size: 30px;
+}
+
+/* botones*/
+
+.botona {
+	border: none;
+	width: 130px;
+	height: 50px;
+	margin-left: 500px;
+	margin-top: 75px;
+	color: white;
+	background-color: #393E41
+}
+
+.botonb {
+	width: 130px;
+	height: 50px;
+	margin-top: 75px;
+	opacity: 0.7;
+	color:white;
+	background-color: transparent;
+	border:solid white 0.5px;
+	margin-left: 80px;
+}
+/*iconos*/
+.icono {
+	width: 40px; 
+	height: 40px;
+	margin-left: 170px;
+}
+.abajo {
+	margin-top: 90px;
+}
+
+h3 {
+	margin-top: 10px;
+	text-align: center;
+}
+
+.centro {
+	text-align: center;
+}
+
+.debajo {
+	margin-bottom: 220px;
+}
+/*Portfolio*/
+/*Menu*/
+
+.menu2{
+	display: inline-block;
+
+}
+
+/*Imagenes*/
+
+.izquierda {
+	margin-left: 60px;
+}
+
+
+/*introportfolio*/
+.port {
+	font-size:30px; 
+	margin-top: 30px;
+	
+}
+
+.espacio {
+	padding  : 30px;
+}
+
+.botonc {
+	 border: none;
+	 width: 85px;
+	 height: 45px;
+	 margin-bottom: 30px;
+	 background-color: white;
+	 color:black;
+	 
+}
+
+.botond { background-color: #4aa7dc
+}
+
+.izq {
+	margin-left: 440px;
+}
+/* fondocontac*/
+
+.fondo {
+	background-image: url(../img/background/contactus1.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	margin: 0px auto;
+	height: 600px;
+	background-color: transparent;
+	opacity: 0.9
+}
+
+.color {
+	color:white;
+	text-align: center;
+	font-size: 16px;
+}
+
+.contact {
+	font-size: 30px;
+	padding: 30px;
+
+}
+
+.a {
+	font-size: 20px;
+	padding: 20px;
+}
+
+.de {
+	text-align: left;
+}
+
+input {
+	width: 600px;
+	height: 40px;
+	margin: 10px;
+	background-color: lightgray;
+	border:none;
+	opacity: 0.1;
+	color: gray;
+}
+
+.me {
+	height: 100px;
+}
+
+.iz {
+	margin-left: 30px;
+	color: white;
+	font-size:16px;
+	width: 150px;
+	height: 50px;
+	border:none;
+} 
+
+.e {
+	margin-bottom: 40px;
+	font-size: 16px;
+	margin-left: 550px;
+}
+
+.foto {
+	background-color: white;
+	width: 250px;
+	height: 340px;
+}
+
+.to {
+	padding: 10px;
+}
